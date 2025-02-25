@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Software Development  
 - 🌱 I’m continuously exploring Java  
-- 💬 Ask me about Java, Python  
+- 💬 Ask me about Java
 - 👯 I’m looking to collaborate on Java Projects
 
 <h3 align="left" dir="auto">Connect with me:</h3>
