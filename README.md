@@ -37,7 +37,7 @@
 <div align="left" dir="auto">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" style="max-width: 100%;">
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23FF5722.svg?style=for-the-badge&logo=hibernate&logoColor=white" style="max-width: 100%;">
-  <img alt="Django" src="https://img.shields.io/badge/django-%230769AD.svg?style=for-the-badge&logo=django&logoColor=white"/>
+ 
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
 
@@ -45,5 +45,5 @@
 <div align="left" dir="auto">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%230075A8.svg?style=for-the-badge&logo=sql&logoColor=white" style="max-width: 100%;">
   <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ 
 </div>
