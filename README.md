@@ -22,7 +22,6 @@
 <h3 align="left" dir="auto">Languages :</h3>
 <div align="left" dir="auto">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%230769AD.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="max-width: 100%;">
 </div>
 
