@@ -9,11 +9,11 @@
 <h3 align="left" dir="auto">Connect with me:</h3>
 
 <div align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/vaibhav-vhankade/" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/shital-sose" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
   
-  <a href="mailto:vaibhavvhankade27@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:avhadshital207@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;">
 </a>
 
